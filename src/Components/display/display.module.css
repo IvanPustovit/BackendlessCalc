@@ -1,0 +1,29 @@
+.display{
+    width: 85%;
+    height: 100px;
+    margin: 0 auto;
+    padding: 10px;
+    text-align: end;
+    background-color: beige;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+
+.value{
+    width: 100%;
+    text-align: end;
+    border: none;
+    font-size: 30px;
+    margin: 0;
+    font-weight: 600;
+}
+
+.result{
+    width: 100%;
+    text-align: end;
+    border: none;
+    font-size: 25px;
+    margin: 0;
+    margin-top: 10px;
+    opacity: 0.5;
+}

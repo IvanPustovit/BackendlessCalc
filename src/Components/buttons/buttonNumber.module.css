@@ -1,0 +1,19 @@
+.button{
+    display: grid;
+    align-items: center;
+    justify-items: stretch;
+    height: 70px;
+    border: solid 1px black;
+    background-color: white;
+    font-weight: 900;
+    font-size: 25px;
+    cursor: pointer;
+    
+}
+
+.value{
+    margin: 0 auto;
+    padding: 0;
+    font-weight: 900;
+    font-size: 25px;
+}
